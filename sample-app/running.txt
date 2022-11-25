@@ -1,0 +1,6 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                    PORTS                                       NAMES
+ef84b1935967   sampleapp      "/bin/sh -c 'python3…"   5 minutes ago   Up 5 minutes              0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+5d6509f791c7   f73d2f5e134b   "/bin/sh -c 'apt pac…"   2 days ago      Exited (100) 2 days ago                                               busy_wu
+e5e9001c72da   f6dadf46136d   "/bin/sh -c 'apt ins…"   2 days ago      Exited (100) 2 days ago                                               suspicious_mayer
+cbf9780547eb   f6dadf46136d   "/bin/sh -c 'apt ins…"   2 days ago      Exited (100) 2 days ago                                               gifted_khorana
+d72199462ebc   f6dadf46136d   "/bin/sh -c 'apt ins…"   2 days ago      Exited (100) 2 days ago                                               modest_banach
